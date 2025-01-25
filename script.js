@@ -75,6 +75,8 @@ function saveEmojiList() {
 
 function surpriseMe() {
   console.log('Surpise me 🎉')
+
+  
 }
 
 function highlightItem(event) {
@@ -105,5 +107,3 @@ function removeEmoji(event) {
     });
   }
 }
-
-
